@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<markers>
+    	<marker id="1" name="Router 1" address="Descrição sobre o roteador" lat="-12.9527771" lng="-38.5050994" type="router" ip="10.71.1.62" status="positivo.png"/>
+		
+		<marker id="2" name="Router 2" address="Descrição sobre o roteador" lat="-12.9527771" lng="-38.5050994" type="router" ip="10.71.2.62" status="positivo.png"/>
+		
+		<marker id="3" name="Router 3" address="Descrição sobre o roteador" lat="-12.9527771" lng="-38.5050994" type="router" ip="10.71.3.62" status="positivo.png"/>
+</markers>
